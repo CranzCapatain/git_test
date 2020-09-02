@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		787256D024FF31D800B31DDE /* MyObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 787256CF24FF31D800B31DDE /* MyObject.m */; };
 		78FB7E9824FE499600259378 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 78FB7E9724FE499600259378 /* AppDelegate.m */; };
 		78FB7E9B24FE499600259378 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 78FB7E9A24FE499600259378 /* SceneDelegate.m */; };
 		78FB7E9E24FE499600259378 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 78FB7E9D24FE499600259378 /* ViewController.m */; };
@@ -36,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		787256CE24FF31D800B31DDE /* MyObject.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyObject.h; sourceTree = "<group>"; };
+		787256CF24FF31D800B31DDE /* MyObject.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyObject.m; sourceTree = "<group>"; };
 		78FB7E9324FE499600259378 /* gitTestdemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gitTestdemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		78FB7E9624FE499600259378 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		78FB7E9724FE499600259378 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -110,6 +113,8 @@
 				78FB7E9A24FE499600259378 /* SceneDelegate.m */,
 				78FB7E9C24FE499600259378 /* ViewController.h */,
 				78FB7E9D24FE499600259378 /* ViewController.m */,
+				787256CE24FF31D800B31DDE /* MyObject.h */,
+				787256CF24FF31D800B31DDE /* MyObject.m */,
 				78FB7E9F24FE499600259378 /* Main.storyboard */,
 				78FB7EA224FE499900259378 /* Assets.xcassets */,
 				78FB7EA424FE499900259378 /* LaunchScreen.storyboard */,
@@ -271,6 +276,7 @@
 				78FB7E9824FE499600259378 /* AppDelegate.m in Sources */,
 				78FB7EA924FE499900259378 /* main.m in Sources */,
 				78FB7E9B24FE499600259378 /* SceneDelegate.m in Sources */,
+				787256D024FF31D800B31DDE /* MyObject.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
